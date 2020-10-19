@@ -3,7 +3,7 @@ const dataObj = {
         "name": "Deloitte",
         "training": "CR - Training",
         "date": "19 Oct 2020",
-        "visual-studio-code-version": "1.50.1"
-
+        "visual-studio-code-version": "1.50.1",
+        "training-name": "Git"
     }
 }
