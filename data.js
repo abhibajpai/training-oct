@@ -1,7 +1,7 @@
 const dataObj = {
     "data": {
         "name": "Deloitte",
-        "training": "CR - Training",
+        "training": "CR - Training"
 
     }
 }
